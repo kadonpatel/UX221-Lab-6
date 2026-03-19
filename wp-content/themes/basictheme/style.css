@@ -1,0 +1,39 @@
+/*
+Theme Name:     basictheme
+Description:    
+Author:         kadonpatel
+Template:       generic
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+background{
+	color:rgb(1, 45, 177);
+}
+p{
+	color:white;
+	width:70%;
+}
+
+h{
+	color:white;
+}
+
+a:link{
+	color:white;
+}
+
+.entry-title a{
+	color:white;
+}
+
+.headline a{
+	color:white;
+}
+
+.single h1.entry-title a{
+	color:white;
+}
+
+h1.entry-title {
+	color:white;
+}

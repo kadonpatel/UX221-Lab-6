@@ -1,1 +1,12 @@
 [16-Mar-2026 23:31:09 UTC] PHP Warning:  Undefined array key "host" in /workspaces/UX221-Lab-6/.wordpress/wp-includes/pluggable.php on line 1721
+[17-Mar-2026 00:12:16 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[17-Mar-2026 00:39:44 UTC] PHP Warning:  strtotime(): Epoch doesn't fit in a PHP integer in /workspaces/UX221-Lab-6/.wordpress/wp-admin/includes/meta-boxes.php on line 381
+[17-Mar-2026 00:41:34 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221-Lab-6/.wordpress/wp-admin/admin-header.php on line 230
+[17-Mar-2026 00:42:51 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/UX221-Lab-6/.wordpress/wp-admin/includes/user.php on line 111
+[17-Mar-2026 00:43:33 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/UX221-Lab-6/.wordpress/wp-admin/includes/theme.php on line 1006
+[17-Mar-2026 00:44:52 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/UX221-Lab-6/.wordpress/wp-admin/includes/user.php on line 111
+[17-Mar-2026 00:44:55 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 28672 bytes) in /workspaces/UX221-Lab-6/.wordpress/wp-admin/includes/theme.php on line 1006
+[17-Mar-2026 00:45:01 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 12288 bytes) in /workspaces/UX221-Lab-6/.wordpress/wp-admin/includes/user.php on line 246
+[17-Mar-2026 00:47:48 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[17-Mar-2026 00:51:03 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[19-Mar-2026 19:11:06 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221-Lab-6/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
